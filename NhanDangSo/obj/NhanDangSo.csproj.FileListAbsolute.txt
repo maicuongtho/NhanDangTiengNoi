@@ -1,0 +1,150 @@
+E:\Master of Science\Mon 7\NhanDangSo\NhanDangSo\obj\Debug\ResolveAssemblyReference.cache
+E:\Master of Science\Mon 7\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.FromFileRegn.resources
+E:\Master of Science\Mon 7\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.InitNet.resources
+E:\Master of Science\Mon 7\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.frmMain.resources
+E:\Master of Science\Mon 7\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.Properties.Resources.resources
+E:\Master of Science\Mon 7\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.TrainingNet.resources
+E:\Master of Science\Mon 7\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.csproj.GenerateResource.Cache
+E:\Master of Science\Mon 7\NhanDangSo\NhanDangSo\bin\Debug\NhanDangSo.exe
+E:\Master of Science\Mon 7\NhanDangSo\NhanDangSo\bin\Debug\NhanDangSo.pdb
+E:\Master of Science\Mon 7\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.exe
+E:\Master of Science\Mon 7\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.pdb
+E:\Master of Science\Mon 7(Advacecd AI)\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.exe
+E:\Master of Science\Mon 7(Advacecd AI)\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.pdb
+E:\Master of Science\Mon 7(Advacecd AI)\NhanDangSo\NhanDangSo\bin\Debug\NhanDangSo.exe
+E:\Master of Science\Mon 7(Advacecd AI)\NhanDangSo\NhanDangSo\bin\Debug\NhanDangSo.pdb
+E:\Master of Science\Mon 7(Advacecd AI)\NhanDangSo\NhanDangSo\obj\Debug\ResolveAssemblyReference.cache
+E:\Master of Science\Mon 7(Advacecd AI)\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.FromFileRegn.resources
+E:\Master of Science\Mon 7(Advacecd AI)\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.InitNet.resources
+E:\Master of Science\Mon 7(Advacecd AI)\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.frmMain.resources
+E:\Master of Science\Mon 7(Advacecd AI)\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.Properties.Resources.resources
+E:\Master of Science\Mon 7(Advacecd AI)\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.TrainingNet.resources
+E:\Master of Science\Mon 7(Advacecd AI)\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.csproj.GenerateResource.Cache
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.exe
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.pdb
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\bin\Debug\NhanDangSo.exe
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\bin\Debug\NhanDangSo.pdb
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Debug\ResolveAssemblyReference.cache
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.FromFileRegn.resources
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.InitNet.resources
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.frmMain.resources
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.Properties.Resources.resources
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.TrainingNet.resources
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.csproj.GenerateResource.Cache
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\bin\Release\NhanDangSo.exe
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\bin\Release\NhanDangSo.pdb
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Release\ResolveAssemblyReference.cache
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Release\NhanDangSo.FromFileRegn.resources
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Release\NhanDangSo.InitNet.resources
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Release\NhanDangSo.frmMain.resources
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Release\NhanDangSo.Properties.Resources.resources
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Release\NhanDangSo.TrainingNet.resources
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Release\NhanDangSo.csproj.GenerateResource.Cache
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Release\NhanDangSo.exe
+E:\Master of Science\Mon7\NhanDangSo\NhanDangSo\obj\Release\NhanDangSo.pdb
+E:\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.exe
+E:\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.pdb
+E:\NhanDangSo\NhanDangSo\obj\Debug\ResolveAssemblyReference.cache
+E:\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.FromFileRegn.resources
+E:\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.InitNet.resources
+E:\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.frmMain.resources
+E:\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.Properties.Resources.resources
+E:\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.TrainingNet.resources
+E:\NhanDangSo\NhanDangSo\obj\Debug\NhanDangSo.csproj.GenerateResource.Cache
+E:\NhanDangSo\NhanDangSo\bin\Debug\NhanDangSo.exe
+E:\NhanDangSo\NhanDangSo\bin\Debug\NhanDangSo.pdb
+E:\NhanDangSoV2\NhanDangSo\obj\Debug\NhanDangSo.exe
+E:\NhanDangSoV2\NhanDangSo\obj\Debug\NhanDangSo.pdb
+E:\NhanDangSoV2\NhanDangSo\bin\Debug\NhanDangSo.exe
+E:\NhanDangSoV2\NhanDangSo\bin\Debug\NhanDangSo.pdb
+E:\NhanDangSoV2\NhanDangSo\obj\Debug\ResolveAssemblyReference.cache
+E:\NhanDangSoV2\NhanDangSo\obj\Debug\NhanDangSo.FromFileRegn.resources
+E:\NhanDangSoV2\NhanDangSo\obj\Debug\NhanDangSo.InitNet.resources
+E:\NhanDangSoV2\NhanDangSo\obj\Debug\NhanDangSo.frmMain.resources
+E:\NhanDangSoV2\NhanDangSo\obj\Debug\NhanDangSo.Properties.Resources.resources
+E:\NhanDangSoV2\NhanDangSo\obj\Debug\NhanDangSo.TrainingNet.resources
+E:\NhanDangSoV2\NhanDangSo\obj\Debug\NhanDangSo.csproj.GenerateResource.Cache
+E:\NhanDangSo\NhanDangSo\bin\Release\NhanDangSo.exe
+E:\NhanDangSo\NhanDangSo\bin\Release\NhanDangSo.pdb
+E:\NhanDangSo\NhanDangSo\obj\Release\ResolveAssemblyReference.cache
+E:\NhanDangSo\NhanDangSo\obj\Release\NhanDangSo.FromFileRegn.resources
+E:\NhanDangSo\NhanDangSo\obj\Release\NhanDangSo.InitNet.resources
+E:\NhanDangSo\NhanDangSo\obj\Release\NhanDangSo.frmMain.resources
+E:\NhanDangSo\NhanDangSo\obj\Release\NhanDangSo.Properties.Resources.resources
+E:\NhanDangSo\NhanDangSo\obj\Release\NhanDangSo.TrainingNet.resources
+E:\NhanDangSo\NhanDangSo\obj\Release\NhanDangSo.csproj.GenerateResource.Cache
+E:\NhanDangSo\NhanDangSo\obj\Release\NhanDangSo.exe
+E:\NhanDangSo\NhanDangSo\obj\Release\NhanDangSo.pdb
+E:\NhanDangSo_ver2\NhanDangSo\obj\Debug\NhanDangSo.exe
+E:\NhanDangSo_ver2\NhanDangSo\obj\Debug\NhanDangSo.pdb
+E:\NhanDangSo_ver2\NhanDangSo\bin\Release\NhanDangSo.exe
+E:\NhanDangSo_ver2\NhanDangSo\bin\Release\NhanDangSo.pdb
+E:\NhanDangSo_ver2\NhanDangSo\obj\Release\ResolveAssemblyReference.cache
+E:\NhanDangSo_ver2\NhanDangSo\obj\Release\NhanDangSo.FromFileRegn.resources
+E:\NhanDangSo_ver2\NhanDangSo\obj\Release\NhanDangSo.InitNet.resources
+E:\NhanDangSo_ver2\NhanDangSo\obj\Release\NhanDangSo.frmMain.resources
+E:\NhanDangSo_ver2\NhanDangSo\obj\Release\NhanDangSo.Properties.Resources.resources
+E:\NhanDangSo_ver2\NhanDangSo\obj\Release\NhanDangSo.TrainingNet.resources
+E:\NhanDangSo_ver2\NhanDangSo\obj\Release\NhanDangSo.csproj.GenerateResource.Cache
+E:\NhanDangSo_ver2\NhanDangSo\obj\Release\NhanDangSo.exe
+E:\NhanDangSo_ver2\NhanDangSo\obj\Release\NhanDangSo.pdb
+E:\NhanDangSo_ver2\NhanDangSo\bin\Debug\NhanDangSo.exe
+E:\NhanDangSo_ver2\NhanDangSo\bin\Debug\NhanDangSo.pdb
+E:\NhanDangSo_ver2\NhanDangSo\obj\Debug\ResolveAssemblyReference.cache
+E:\NhanDangSo_ver2\NhanDangSo\obj\Debug\NhanDangSo.FromFileRegn.resources
+E:\NhanDangSo_ver2\NhanDangSo\obj\Debug\NhanDangSo.InitNet.resources
+E:\NhanDangSo_ver2\NhanDangSo\obj\Debug\NhanDangSo.frmMain.resources
+E:\NhanDangSo_ver2\NhanDangSo\obj\Debug\NhanDangSo.Properties.Resources.resources
+E:\NhanDangSo_ver2\NhanDangSo\obj\Debug\NhanDangSo.TrainingNet.resources
+E:\NhanDangSo_ver2\NhanDangSo\obj\Debug\NhanDangSo.csproj.GenerateResource.Cache
+E:\MatNhanDangSo_ver2\NhanDangSo\obj\Debug\NhanDangSo.exe
+E:\MatNhanDangSo_ver2\NhanDangSo\obj\Debug\NhanDangSo.pdb
+E:\MatNhanDangSo_ver2\NhanDangSo\obj\Debug\ResolveAssemblyReference.cache
+E:\MatNhanDangSo_ver2\NhanDangSo\obj\Debug\NhanDangSo.FromFileRegn.resources
+E:\MatNhanDangSo_ver2\NhanDangSo\obj\Debug\NhanDangSo.InitNet.resources
+E:\MatNhanDangSo_ver2\NhanDangSo\obj\Debug\NhanDangSo.frmMain.resources
+E:\MatNhanDangSo_ver2\NhanDangSo\obj\Debug\NhanDangSo.Properties.Resources.resources
+E:\MatNhanDangSo_ver2\NhanDangSo\obj\Debug\NhanDangSo.TrainingNet.resources
+E:\MatNhanDangSo_ver2\NhanDangSo\obj\Debug\NhanDangSo.csproj.GenerateResource.Cache
+E:\MatNhanDangSo_ver2\NhanDangSo\bin\Debug\NhanDangSo.exe
+E:\MatNhanDangSo_ver2\NhanDangSo\bin\Debug\NhanDangSo.pdb
+E:\MatNhanDangSo_ver2\NhanDangSo\bin\Debug\MWArray.dll
+E:\MatNhanDangSo_ver2\NhanDangSo\bin\Debug\ManagedCPPAPI.netmodule
+E:\MatNhanDangSo_ver2\NhanDangSo\bin\Debug\untitled5.dll
+E:\MatNhanDangSo_ver2\NhanDangSo\bin\Debug\untitled5.ctf
+E:\MatNhanDangSo_ver2\NhanDangSo\bin\Debug\MLPTho.dll
+E:\MatNhanDangSo_ver2\NhanDangSo\bin\Debug\MLPTho.ctf
+E:\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.exe
+E:\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.pdb
+E:\NhanDangSo_ver25_3\NhanDangSo\bin\Debug\NhanDangSo.exe
+E:\NhanDangSo_ver25_3\NhanDangSo\bin\Debug\NhanDangSo.pdb
+E:\NhanDangSo_ver25_3\NhanDangSo\bin\Debug\MLPTho.dll
+E:\NhanDangSo_ver25_3\NhanDangSo\bin\Debug\MWArray.dll
+E:\NhanDangSo_ver25_3\NhanDangSo\bin\Debug\MLPTho.ctf
+E:\NhanDangSo_ver25_3\NhanDangSo\bin\Debug\ManagedCPPAPI.netmodule
+E:\NhanDangSo_ver25_3\NhanDangSo\bin\Debug\untitled5.ctf
+E:\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\ResolveAssemblyReference.cache
+E:\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.FromFileRegn.resources
+E:\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.InitNet.resources
+E:\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.frmMain.resources
+E:\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.Properties.Resources.resources
+E:\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.TrainingNet.resources
+E:\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.csproj.GenerateResource.Cache
+E:\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.NhanDangOnline.resources
+E:\NhanDangSo_ver25_3\NhanDangSo\bin\Debug\GhiAm.ctf
+E:\Master of Science\Mon 7\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.exe
+E:\Master of Science\Mon 7\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.pdb
+E:\Master of Science\Mon 7\NhanDangSo_ver25_3\NhanDangSo\bin\Debug\NhanDangSo.exe
+E:\Master of Science\Mon 7\NhanDangSo_ver25_3\NhanDangSo\bin\Debug\NhanDangSo.pdb
+E:\Master of Science\Mon 7\NhanDangSo_ver25_3\NhanDangSo\bin\Debug\MLPTho.ctf
+E:\Master of Science\Mon 7\NhanDangSo_ver25_3\NhanDangSo\bin\Debug\ManagedCPPAPI.netmodule
+E:\Master of Science\Mon 7\NhanDangSo_ver25_3\NhanDangSo\bin\Debug\untitled5.ctf
+E:\Master of Science\Mon 7\NhanDangSo_ver25_3\NhanDangSo\bin\Debug\GhiAm.ctf
+E:\Master of Science\Mon 7\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\ResolveAssemblyReference.cache
+E:\Master of Science\Mon 7\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.FromFileRegn.resources
+E:\Master of Science\Mon 7\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.InitNet.resources
+E:\Master of Science\Mon 7\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.frmMain.resources
+E:\Master of Science\Mon 7\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.NhanDangOnline.resources
+E:\Master of Science\Mon 7\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.Properties.Resources.resources
+E:\Master of Science\Mon 7\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.TrainingNet.resources
+E:\Master of Science\Mon 7\NhanDangSo_ver25_3\NhanDangSo\obj\Debug\NhanDangSo.csproj.GenerateResource.Cache

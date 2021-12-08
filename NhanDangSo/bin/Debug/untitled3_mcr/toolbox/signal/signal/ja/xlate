@@ -1,0 +1,135 @@
+% Copyright 2000-2006 The MathWorks, Inc.
+% $Revision: 1.3.4.10 $ $Date: 2006/12/30 08:11:50 $
+<(remez)Filter order must be 3 or more.
+>(remez)フィルタの次数は3以上である必要があります。
+<(prefspanel)Filter Specifications
+>(prefspanel)フィルタ仕様
+<(prefspanel)Magnitude Response
+>(prefspanel)振幅応答
+<(prefspanel)Phase Response
+>(prefspanel)位相応答
+<(prefspanel)Magnitude and Phase Response
+>(prefspanel)振幅応答と位相応答
+<(prefspanel)Group Delay
+>(prefspanel)郡遅延
+<(prefspanel)Impulse Response
+>(prefspanel)インパルス応答
+<(prefspanel)Step Response
+>(prefspanel)ステップ応答
+<(prefspanel)Pole/Zero Plot
+>(prefspanel)極零プロット
+<(prefspanel)Filter Coefficients
+>(prefspanel)フィルタ係数
+% wan-2002/12/24
+<(zplaneplot)Real Part
+>(zplaneplot)実部
+<(zplaneplot)Imaginary Part
+>(zplaneplot)虚部
+<(thisdraw)Normalized Frequency  (\times\pi rad/sample)
+>(thisdraw)正規化周波数 (\times\pi ラジアン/サンプル)
+<(thisdraw)Normalized Frequency (\times\pi rad/sample)
+>(thisdraw)正規化周波数 (\times\pi ラジアン/サンプル)
+<(winviewer)Magnitude
+>(winviewer)振幅
+<(winviewer)Magnitude (dB)
+>(winviewer)振幅 (dB)
+<(winviewer)Magnitude squared
+>(winviewer)振幅の2乗
+<(winviewer)Zero-phase
+>(winviewer)ゼロ位相
+<(zerophase)Amplitude
+>(zerophase)振幅
+<(thisdraw)Time (%s)
+>(thisdraw)時間 (%s)
+<()Direct-Form Antisymmetric FIR
+>()直接型非対称FIR
+%<()Discrete Filter
+%>()離散フィルタ
+<()Overlap-Add FIR
+>()Overlap-Add FIR
+<()Lattice Allpass
+>()ラティスオールパス
+<()Lattice Moving-Average (MA) For Minimum Phase
+>()最小位相に対するラティス移動平均(MA)
+<()Lattice Moving-Average (MA) For Maximum Phase
+>()最大位相に対するラティス移動平均(MA)
+<()Lattice Autoregressive Moving-Average (ARMA)
+>()ラティス自己回帰移動平均(ARMA)
+<()Band-edge frequencies must be less than the Nyquist frequency.
+>()Band-edge周波数はナイキスト周波数より小さくなければなりません。
+<()Band-edge frequencies must be positive.
+>()Band-edge周波数は正でなければなりません
+<()Band-edge frequencies cannot exceed half the sampling frequency.
+>()Band-edge周波数はサンプリング周波数の半分を越えてはいけません
+<()Band-edge frequencies cannot exceed one.
+>()Band-edge周波数は1を越えてはいけません。
+<(cconv)A and B must be vectors.
+>(cconv)A と B はベクトルでなければなりません。
+
+<()Normalized Frequency  (\times\pi rad/sample)
+>()正規化周波数  (\times\pi ラジアン/ サンプル)
+<()Frequency (Hz)
+>()周波数 (Hz)
+<()Frequency (kHz)
+>()周波数 (kHz)
+<()Frequency (MHz)
+>()周波数 (MHz)
+<()Frequency (GHz)
+>()周波数 (GHz)
+<()Frequency (THz)
+>()周波数 (THz)
+<()Frequency (PHz)
+>()周波数 (PHz)
+<()Frequency (EHz)
+>()周波数 (EHz)
+<()Frequency (aHz)
+>()周波数 (aHz)
+<()Frequency (fHz)
+>()周波数 (fHz)
+<()Frequency (pHz)
+>()周波数 (pHz)
+<()Frequency (\muHz)
+>()周波数 (\muHz)
+<()Frequency (mHz)
+>()周波数 (mHz)
+<()Power/frequency (dB/rad/sample)
+>()パワー/周波数 (dB/ラジアン/サンプル)
+<()Power/frequency (dB/Hz)
+>()パワー/周波数 (dB/Hz)
+<()Magnitude (dB)
+>()振幅 (dB)
+<()Burg Power Spectral Density Estimate
+>()Burg 法パワースペクトル密度推定
+<()Covariance Power Spectral Density Estimate
+>()共分散法パワースペクトル密度推定
+<()Modified Covariance Power Spectral Density Estimate
+>()修正共分散法パワースペクトル密度推定
+<()Thompson Multitaper Power Spectral Density Estimate
+>()Thompson マルチテーパパワースペクトル密度推定
+<()Periodogram Power Spectral Density Estimate
+>()ピリオドグラムパワースペクトル密度推定
+<()Welch Power Spectral Density Estimate
+>()Welch 法パワースペクトル密度推定
+<()Yule-Walker Power Spectral Density Estimate
+>()Yule-Walker 法パワースペクトル密度推定
+<()Periodogram Mean-Square Spectrum Estimate
+>()ピリオドグラム平均二乗スペクトル推定
+<()Welch Mean-Square Spectrum Estimate
+>()Welch 平均二乗スペクトル推定
+<()Eigenvector Pseudospectrum
+>()固有ベクトル法擬似スペクトル
+<()Multiple Signal Classification (MUSIC) Pseudospectrum
+>()多重信号分類法 (MUSIC) 擬似スペクトル
+<()Time (s)
+>()時間 (s)
+<()Time (secs)
+>()時間 (秒)
+<()Time (mins)
+>()時間 (分)
+<()Time (hrs)
+>()時間 (時)
+<()Time (days)
+>()時間 (日)
+<()Time (years)
+>()時間 (年)
+
