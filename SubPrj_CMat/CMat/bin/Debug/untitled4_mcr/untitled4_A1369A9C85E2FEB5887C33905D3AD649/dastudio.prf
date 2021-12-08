@@ -1,0 +1,11 @@
+#
+#DAStudio Preference File
+#
+
+
+[DAStudio DDG]
+DDGFontSize=8
+
+[General]
+MatlabRelease=2007a
+

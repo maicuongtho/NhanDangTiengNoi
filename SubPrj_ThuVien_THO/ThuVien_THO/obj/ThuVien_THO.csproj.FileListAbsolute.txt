@@ -1,0 +1,5 @@
+E:\Master of Science\Mon 7\ThuVien_THO\ThuVien_THO\bin\Release\ThuVien_THO.dll
+E:\Master of Science\Mon 7\ThuVien_THO\ThuVien_THO\bin\Release\ThuVien_THO.pdb
+E:\Master of Science\Mon 7\ThuVien_THO\ThuVien_THO\obj\Release\ResolveAssemblyReference.cache
+E:\Master of Science\Mon 7\ThuVien_THO\ThuVien_THO\obj\Release\ThuVien_THO.dll
+E:\Master of Science\Mon 7\ThuVien_THO\ThuVien_THO\obj\Release\ThuVien_THO.pdb
